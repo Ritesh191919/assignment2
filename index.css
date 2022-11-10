@@ -1,0 +1,10 @@
+.main-session {
+  background-image: url("./image/background1.jpeg");
+    background-size: cover;
+  }
+  .main-session-image{
+    border-radius: 20%;
+  }
+  .nav-bar{
+    width: 100%;
+  }
